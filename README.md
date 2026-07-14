@@ -1,6 +1,6 @@
 ## # 🤖 Geovane Porto
 
-**`Desenvolvedor Front-End Junior`**
+**`Programador Front-End Junior`**
 
 Me chamo Geovane Porto, tenho 50 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Pitagoras, conclui em julho de 2026 o curso Programador Front-End no Senac. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio de Sa,apesar de ter trancado a faculdade pretendo retornar para conclusão. Sou apaixonada por tecnologia e gosto de estar sempre aprendendo e compartilhando meu conhecimento com outras pessoas.
 <p align="left">
