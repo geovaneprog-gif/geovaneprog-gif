@@ -3,13 +3,9 @@
 **`Programador Front-End Junior`**
 
 Meu nome é Geovane Porto, tenho 50 anos e sou natural do Rio de Janeiro.
-
 Concluí o Ensino Médio no Colégio Pitágoras e, em julho de 2026, concluí o curso de Programador Front-End pelo Senac, onde desenvolvi conhecimentos em desenvolvimento web com foco em tecnologias modernas.
-
 Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio de Sá. Embora minha graduação esteja temporariamente trancada, tenho o compromisso de retornar para concluir essa etapa da minha formação acadêmica.
-
 Sou apaixonado por tecnologia e movido pelo aprendizado contínuo. Gosto de estudar novas ferramentas, acompanhar as tendências do desenvolvimento de software e compartilhar conhecimento com outras pessoas. Acredito que a evolução profissional acontece por meio da prática, da colaboração e da busca constante por novos desafios.
-
 Meu objetivo é atuar como Desenvolvedor Front-End, contribuindo para a criação de interfaces modernas, acessíveis e de alta qualidade, enquanto continuo ampliando minhas competências técnicas e profissionais.
     <a href="https://youtube.com/@geovaneporto?si=GLOEBsFqRK2_Xo28">
         <img 
